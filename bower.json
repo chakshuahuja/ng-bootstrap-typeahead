@@ -4,7 +4,7 @@
     "homepage": "https://github.com/chakshuahuja/ng-bootstrap-typeahead",
     "main": "ui-bootstrap-custom-tpls-0.13.4.js",
     "dependencies": {
-	"angular": "1.2.0-rc.3"
+	"angular": ">=1.4.0"
     },
     "ignore": [
 	"**/.*",
