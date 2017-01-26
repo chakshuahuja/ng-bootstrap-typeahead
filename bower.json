@@ -1,0 +1,16 @@
+{
+    "name": "angular-bootstrap-typeahead",
+    "version": "0.13.4",
+    "homepage": "https://github.com/chakshuahuja/ng-bootstrap-typeahead",
+    "main": "ui-bootstrap-custom-tpls-0.13.4.js",
+    "dependencies": {
+	"angular": "1.2.0-rc.3"
+    },
+    "ignore": [
+	"**/.*",
+	"node_modules",
+	"bower_components",
+	"test",
+	"tests"
+    ]
+}
